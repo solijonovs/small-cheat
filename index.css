@@ -1,0 +1,33 @@
+body {
+    background-color: bisque;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h1 {
+    margin: 40pxl
+}
+
+h2 {
+    margin-top: 50px;
+}
+
+table {
+    margin: 0 auto;
+    margin-top: 30px;
+    border: 3px solid green;
+}
+
+table th {
+    background-color: aqua;
+}
+
+table td {
+    border-bottom: 1px solid rgb(61, 141, 61);
+}
+
+.code {
+    background-color: rgb(255, 247, 247);
+}
